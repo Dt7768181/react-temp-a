@@ -1,4 +1,4 @@
-import './App6.css'
+import '../assets/App6.css'
 import { useState } from "react"
 export default function App6(){
     const[products,setproducts]=useState([]);
