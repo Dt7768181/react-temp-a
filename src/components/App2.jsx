@@ -10,7 +10,7 @@ export default function App2(){
     }
     return(
         <div>
-            <h1>This is App2</h1>
+            <h1>THIS IS APP2</h1>
             <button onClick={increment}>+</button>
             {count}
             <button onClick={decrement}>-</button>
